@@ -13,3 +13,4 @@ I know:
 1. JavaScript
 1. NodeJs
 1. Python
+1. HTML/CSS
